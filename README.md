@@ -23,9 +23,11 @@ Trong đó tình trạng bệnh nền do bệnh nhân khai báo và mã ưu tiê
 ![image](https://user-images.githubusercontent.com/81867521/184464821-c3bd3579-e50e-4cd7-9c1e-9b19043f999f.png)
 
 THÊM THÔNG TIN BỆNH NHÂN
+
 ![image](https://user-images.githubusercontent.com/81867521/184464946-dcccd87e-dc99-4150-9ca1-d215f4a4a69e.png)
 
 SỬA THÔNG TIN
+
 ![image](https://user-images.githubusercontent.com/81867521/184464959-a70f6e42-baaa-4fd4-88db-ff9fc52ac5a0.png)
 
 Chức năng mặc định sẽ refresh DB về lúc ban đầu. Tại vì app dùng để demo nhiều lần nên mình nghĩ cần đến chức năng này ^^
