@@ -16,7 +16,7 @@ Chức năng xếp lịch được kích hoạt giao diện sẽ yêu cầu nh�
 
 ![image](https://user-images.githubusercontent.com/81867521/184464613-b81518ae-9af2-47de-8bf9-f87ba29056ca.png)
 
-Giả sử một ngày tiêm 30 bệnh nhân thì được chia đều cho cả sáng lẫn chiều.
+Giả sử một ngày tiêm 30 bệnh nhân thì được chia đều cho cả sáng lẫn chiều với các khung giờ khác nhau.
 
 Việc sắp xếp dựa trên các yếu tố: Mã ưu tiên > Năm sinh > Tình trạng bệnh nền
 Trong đó tình trạng bệnh nền do bệnh nhân khai báo và mã ưu tiên áp dụng theo danh sách thứ tự ưu tiên lúc bấy giờ.
